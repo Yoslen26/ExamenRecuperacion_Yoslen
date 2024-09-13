@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\API A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|c:\\users\\usuario\\desktop\\api a\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|solutionrelative:controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|c:\\users\\usuario\\desktop\\api a\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|solutionrelative:models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|c:\\users\\usuario\\desktop\\api a\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|solutionrelative:controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|c:\\users\\usuario\\desktop\\api a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|c:\\users\\usuario\\desktop\\api a\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|solutionrelative:models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|c:\\users\\usuario\\desktop\\api a\\context\\baseacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|solutionrelative:context\\baseacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|c:\\users\\usuario\\desktop\\api a\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA365783-5E2C-46FA-A0E2-0F5C64DA7DF6}|API A.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API A\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\API A\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "Controllers\\PeliculasController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwC8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:22:01.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API A\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\API A\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "Controllers\\ActorsController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAmwGIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:21:19.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API A\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\API A\\Models\\Pelicula.cs",
+              "RelativeToolTip": "Models\\Pelicula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:18:32.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API A\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\API A\\Models\\Actor.cs",
+              "RelativeToolTip": "Models\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:18:12.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API A\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\API A\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:10:51.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API A\\Context\\BaseaContext.cs",
+              "RelativeDocumentMoniker": "Context\\BaseaContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\API A\\Context\\BaseaContext.cs",
+              "RelativeToolTip": "Context\\BaseaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:07:31.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API A\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\API A\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:57:18.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
